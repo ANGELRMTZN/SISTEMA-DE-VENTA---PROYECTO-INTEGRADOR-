@@ -3,7 +3,4 @@ iconos gratis
 https://www.streamlinehq.com/?tab=all&search=login
 
 
-CODIGO
-String myBD = "jdbc:mysql://localhost:3306/sistemaventa?serverTimezone-UTC": 
-con = DriverManager.getConnection (myBD, "root", "");
 
